@@ -63,7 +63,16 @@ export const CharactersProvider = ({children})=>{
     }
 
     return (
-        <CharactersContext.Provider value={{characters, totalResults, pages, actualPage, prevPage, nextPage, gotoPage}}>
+        <CharactersContext.Provider 
+            value={{
+                characters,
+                totalResults,
+                pages,
+                actualPage,
+                prevPage,
+                nextPage,
+                gotoPage
+                }}>
             {children}
         </CharactersContext.Provider>
     )

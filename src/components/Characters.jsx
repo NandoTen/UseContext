@@ -8,7 +8,6 @@ import Pagination from './Pagination'
 const Characters = () => {
 
     const {characters} = useContext(CharactersContext)
-    console.log('%c Recibimos characters en Characters.jsx','background:red' , characters)
 
   return (
     <div>
