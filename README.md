@@ -1,35 +1,8 @@
 
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@NandoTen
-NandoTen /
-UseContext
-Public
-
-Cannot fork because you own this repository and are not a member of any organizations.
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
 
     Settings
 
-UseContext/README.md
-@NandoTen
-NandoTen Update README.md
-Latest commit 874b379 Feb 14, 2023
-History
-1 contributor
-70 lines (50 sloc) 1.88 KB
+
 useContext
 
 The goal is to call an API (https://rickandmortyapi.com/ ) and display the results per page, using the useContext hook.
